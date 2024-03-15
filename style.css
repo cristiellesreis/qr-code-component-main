@@ -19,6 +19,7 @@ article{
     height: 497px;
     background-color: white;
     border-radius: 20px;
+    margin-bottom: 40px;
 }
 
 .img-codigo{
@@ -32,24 +33,23 @@ img{
     border-radius: 10px;
 }
 
-p{
+h1{
+    font-weight: 700;
+    font-size: 22px;
+    color: rgba(31, 49, 79, 1);
     margin: 16px 32px;
     text-align: center;
 }
 
-.titulo{
-    font-weight: 700;
-    font-size: 22px;
-    color: rgba(31, 49, 79, 1);
-}
-
-.texto{
+p{
+    margin: 16px 32px;
+    text-align: center;
     font-weight: 400;
     font-size: 15px;
     color: rgba(125, 136, 158, 1);
 }
 
 .attribution{
-    padding: 40px;
     text-align: center;
 }
+
